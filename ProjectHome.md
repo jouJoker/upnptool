@@ -1,0 +1,1 @@
+upnptool is a set of libraries and ready-made tools for accessing UPnP devices on the client side. It also provides diagnostical facilities to measure UPnP network traffic and to probe devices in order to determine issues.
